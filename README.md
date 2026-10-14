@@ -76,4 +76,3 @@ All endpoints in `openapi.yaml` are implemented:
 - ✅ `GET /analytics/departments/{department}/trend` (uses `$densify`)
 - ✅ `GET /admin/explain/{endpoint}`
 
-See `REVIEW.md` for a full analysis of defects found in the starter code, and `DECISIONS.md` for design rationale.
